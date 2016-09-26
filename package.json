@@ -1,0 +1,23 @@
+{
+  "name": "disk_db",
+  "version": "1.0.0",
+  "description": "An implementation of diskDB for local data munging.",
+  "main": "index.js",
+  "dependencies": {
+    "diskdb": "^0.1.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fingerskier/disk_db.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fingerskier/disk_db/issues"
+  },
+  "homepage": "https://github.com/fingerskier/disk_db#readme"
+}
